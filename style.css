@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    font-size: 35px;
+    background-color: lightgreen;
+    font-family: Helvetica;
+}
+
+ul {
+    color: violet;
+    font-size: 24px;
+    background: lightgoldenrodyellow;
+    font-family: 'Courier New';
+}
